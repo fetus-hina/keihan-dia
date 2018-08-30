@@ -1,5 +1,7 @@
-keihan-dia
+﻿keihan-dia
 ==========
+
+![](doc/dia.png)
 
 ## 何これ
 
